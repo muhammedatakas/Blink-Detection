@@ -2,7 +2,7 @@
 
 This repository contains a blink detection system developed for a competition that identifies key frames during eye blinks in video footage. The goal is to accurately detect three critical moments in the blinking process.
 
-**[View the example video](/visualization.mp4)**
+![Blink Detection Demo](visualization.gif)
 ## Competition Task
 
 This project was developed for a competition where the task is to identify:
