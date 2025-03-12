@@ -2,6 +2,7 @@
 
 This repository contains a blink detection system developed for a competition that identifies key frames during eye blinks in video footage. The goal is to accurately detect three critical moments in the blinking process.
 
+**[View the example video](/visualization.mp4)**
 ## Competition Task
 
 This project was developed for a competition where the task is to identify:
@@ -58,3 +59,4 @@ The detector uses a hybrid approach combining:
 4. Post-processing to refine blink boundary accuracy
 
 This approach achieves high precision in identifying the exact frames where blinks begin and end.
+
